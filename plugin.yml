@@ -3,7 +3,7 @@ main: khoi.mobwave.controller.Main
 version: 1.0
 author: khoi
 commands:
-   raid:
-      description: start raid event.
-      usage: /raid 
+   mobwave:
+      description: start mob wave 
+      usage: /mobwave 
 
